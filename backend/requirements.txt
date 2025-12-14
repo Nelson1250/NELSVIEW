@@ -4,3 +4,4 @@ pydicom==2.4.4
 numpy==1.26.2
 matplotlib==3.8.2
 Pillow==10.1.0
+gunicorn==21.2.0
